@@ -30,7 +30,7 @@ In this project, our goal is handling a customer churn problem by building predi
 - 'README.md' : This file.
 
 ## Instructions: <a name="instructions"/>
-The data is provided by Sparky for the Udacity Data Science Nanodegree Program. Please see the jupyter note book file for the detail analysis.
+The data is provided by Sparkify for the Udacity Data Science Nanodegree Program. Please see the jupyter note book file for the detail analysis.
 
 My blog on Medium website is https://medium.com/@joseph4it/how-predict-customer-churn-using-apache-spark-1747f3435bcd
 
